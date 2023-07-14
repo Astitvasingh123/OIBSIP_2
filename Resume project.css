@@ -1,0 +1,96 @@
+.background
+{
+    background-color:rgb(208, 245, 233);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.cloud1{
+    position:relative;
+    top:-20px;
+    left:300px;
+    margin-bottom: 20px;
+}
+.cloud2{
+    position: relative;
+    top:-250px;
+
+}
+.mountain{
+    position:relative;
+    top:50px;
+    left:-30px;
+}
+h1{
+    font-family: "Sacramento", cursive;
+    font-size:5.625rem;
+    color:rgb(13, 134, 94);
+}
+h2{
+     font-size:2.5rem;
+     font-family: "Montserrat", sans-serif;
+     color:rgb(13, 134, 94);
+}
+.span1{
+    text-decoration: underline;
+    color:rgb(13, 134, 94);
+}
+.mine{
+    width:200px;
+    height:auto;
+    border-radius :100%;
+}
+.pic{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.content1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+}
+.content1 h2{
+    color: rgb(9, 104, 155);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image2{
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+  width: 50%;
+}
+.skill{
+     display: block;
+     margin-left:600px;
+     margin-right:auto;
+     width:50%;
+     font-size: 2.3rem;
+}
+.last{
+    text-align:center;
+    background-color: rgb(46, 210, 188);
+}
+.taskbar{
+    list-style: none;
+    justify-content:center;
+    gap:45px;
+    display:flex;
+
+}
+.contact h1{
+      color:rgb(59, 59, 148);
+}
+.src{
+    width:50px;
+    height:50px;
+    margin-bottom: 10px;
+}
+.span2{
+    font-size:2rem;
+    font-weight: 900;
+    padding-left:20px;
+}
+p{
+    font-weight: bold;
+}
